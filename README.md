@@ -1,2 +1,5 @@
 # hello-world
-GitHub Repository Tutorial
+
+Hello world!
+
+My name is Christoffer Guilotte and I'm a developer!
